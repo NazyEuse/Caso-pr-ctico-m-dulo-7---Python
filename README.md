@@ -9,3 +9,7 @@ Análisis Predictivo de un Conjunto de Datos de Interés Tienda venta de Video g
 Contexto:
 
 Utilizaremos un conjunto de datos de ventas de videojuegos para predecir las ventas globales en función de otros factores como el género del videojuego, la plataforma, las ventas en regiones específicas (América del Norte, Europa, Japón), entre otros. Este análisis es relevante porque puede ayudar a editores y desarrolladores a tomar decisiones sobre plataformas y mercados de enfoque.
+
+Liga del Analisis en GoogleColab
+
+https://colab.research.google.com/drive/1GSh4g1eI53OL-wTIAkwqa6d5I95dFnLM#scrollTo=m_bj8Z75tKkS
